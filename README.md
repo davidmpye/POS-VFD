@@ -2,7 +2,7 @@
 
 This project now lives at Codeberg.
 
-Go here [https://www.codeberg.org/davidmpye/POS_VFD](https://www.codeberg.org/davidmpye/POS_VFD)
+Go here [https://www.codeberg.org/davidmpye/POS-VFD](https://www.codeberg.org/davidmpye/POS-VFD)
 
 This repository is now archived and won't receive any further updates.
 
